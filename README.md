@@ -7,7 +7,7 @@
 * 이와 같은 문제를 해결하기 위해 데이터 처리를 위한 워크플로우 관리 시스템(Workflow Management System, WMS)이 활용되고 있음
 * 이에 AirFlow, Luigi, Snakemake 등 다양한 WMS가 쓰이고 있으며, 그 중 하나인 Snakemake에 대해 알아보고자 함
 
-** Snakemake의 장점 **
+**Snakemake의 장점**
   * GNU Make 형식의 컴팩트한 구문
   * 데이터 의존관계 파악이 쉬움
   * 처리 코드와 의존 관계 명세를 나누어 재활성이 높음
